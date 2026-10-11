@@ -1,7 +1,7 @@
 # Tamil Nadu Air Quality - Multi-Year Data Quality Report
 
 ## 1. Executive Summary
-- **Total Multi-Year Records:** 11,186
+- **Total Multi-Year Records:** 10,890
 - **Processed Years:** [2011, 2012, 2013, 2014, 2015]
 - **Geographic Footprint:** 8 cities across 31 monitoring stations
 - **Data Integrity Principles Enforced:**
@@ -14,20 +14,20 @@
 
 | Source File | Year | Rows | Date Range | Distinct Dates | Valid SO2 (%) | Valid NO2 (%) | Valid PM10 (%) | Valid PM2.5 (%) | Cities | Stations |
 |---|---|---:|---|---:|---:|---:|---:|---:|---:|---:|
-| `air_quality_2011.csv` | 2011 | 2,232 | 2011-01-02 to 2011-12-28 | 121 | 97.8% | 97.8% | 99.4% | 0.0% | 8 | 31 |
-| `air_quality_2012.csv` | 2012 | 2,270 | 2012-01-02 to 2012-12-30 | 122 | 97.4% | 98.2% | 98.6% | 0.0% | 8 | 31 |
-| `air_quality_2013.csv` | 2013 | 2,158 | 2013-01-02 to 2013-12-28 | 121 | 97.8% | 98.0% | 99.1% | 0.0% | 8 | 31 |
-| `air_quality_2014.csv` | 2014 | 2,224 | 2014-01-02 to 2014-12-28 | 121 | 97.7% | 97.3% | 98.8% | 10.0% | 8 | 31 |
+| `air_quality_2011.csv` | 2011 | 1,569 | 2011-01-02 to 2011-12-31 | 303 | 99.5% | 99.5% | 99.5% | 0.0% | 5 | 16 |
+| `air_quality_2012.csv` | 2012 | 1,734 | 2012-01-02 to 2012-12-31 | 304 | 98.2% | 98.3% | 99.4% | 0.0% | 6 | 21 |
+| `air_quality_2013.csv` | 2013 | 2,406 | 2013-01-02 to 2013-12-31 | 299 | 98.2% | 98.6% | 99.6% | 0.0% | 8 | 27 |
+| `air_quality_2014.csv` | 2014 | 2,879 | 2014-01-02 to 2014-12-31 | 302 | 99.6% | 99.5% | 99.9% | 0.0% | 8 | 30 |
 | `air_quality_2015.csv` | 2015 | 2,302 | 2015-01-02 to 2015-12-31 | 281 | 99.1% | 98.9% | 99.7% | 19.7% | 8 | 31 |
 
 ## 3. Pollutant Completeness & Missingness
 
 | Pollutant | Total Records | Valid Observations | Missing Count | Missing % | Negative Values |
 |---|---:|---:|---:|---:|---:|
-| **SO2** | 11,186 | 10,958 | 228 | 2.04% | 0 |
-| **NO2** | 11,186 | 10,965 | 221 | 1.98% | 0 |
-| **RSPM_PM10** | 11,186 | 11,088 | 98 | 0.88% | 0 |
-| **PM_2_5** | 11,186 | 677 | 10,509 | 93.95% | 0 |
+| **SO2** | 10,890 | 10,776 | 114 | 1.05% | 0 |
+| **NO2** | 10,890 | 10,780 | 110 | 1.01% | 0 |
+| **RSPM_PM10** | 10,890 | 10,850 | 40 | 0.37% | 0 |
+| **PM_2_5** | 10,890 | 454 | 10,436 | 95.83% | 0 |
 
 ## 4. Key Data Quality Findings & Analytical Limitations
 

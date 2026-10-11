@@ -1,125 +1,129 @@
 pollutant,stn_code,city,location_of_monitoring_station,type_of_location,agency,valid_observations,distinct_sampling_dates,years_active,mean_concentration,median_concentration,p90_concentration,max_concentration,station_rank,meets_30_observation_screen
-NO2,309,Salem,"Sowdeswari College Building, Salem","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,360,367,5,22.0,21.95,29.64,36.0,1,True
-NO2,763,Mettur,"SIDCO Industrial Complex, Mettur",Industrial Area,Tamilnadu State Pollution Control Board,403,413,5,21.62,21.6,28.96,49.0,2,True
-NO2,238,Coimbatore,"Distt. Collector's Office, Coimbatore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,336,344,5,21.46,21.9,27.0,38.0,3,True
-NO2,307,Madurai,"Fenner (I) Ltd. Employees Assiciation Building Kochadai, Madurai",Industrial Area,Tamilnadu State Pollution Control Board,403,409,5,21.28,21.1,27.58,48.0,4,True
-NO2,237,Coimbatore,"SIDCO Office, Coimbatore",Industrial Area,Tamilnadu State Pollution Control Board,332,338,5,20.99,20.7,28.0,52.0,5,True
-NO2,308,Madurai,"Kunnathur Chatram East Avani Mollai Street, Madurai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,425,432,5,20.88,20.5,28.0,48.0,6,True
-NO2,161,Chennai,"Thiruvottiyur Municipal Office, Chennai",Industrial Area,National Environmental Engineering Research Institute,434,444,5,20.81,20.3,29.0,67.0,7,True
-NO2,767,Chennai,"Kilpauk, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,331,344,5,20.76,20.9,27.0,36.6,8,True
-NO2,160,Chennai,"NEERI, CSIR Campus Chennai","Residential, Rural and other Areas",National Environmental Engineering Research Institute,371,382,5,20.7,20.1,28.5,73.0,9,True
-NO2,766,Chennai,"Thiyagaraya Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,390,403,5,20.68,20.7,27.0,38.0,10,True
-NO2,765,Chennai,"Anna Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,344,348,5,20.42,20.55,26.27,37.0,11,True
-NO2,375,Coimbatore,"Poniarajapuram, On the top of DEL, Coimbatore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,355,361,5,20.4,21.0,26.24,34.1,12,True
-NO2,306,Madurai,"Highway (Project -I) Building, Madurai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,364,370,5,20.22,20.1,27.0,36.0,13,True
-NO2,762,Mettur,"Raman Nagar, Mettur","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,429,436,5,20.2,20.0,26.1,45.0,14,True
-NO2,761,Cuddalore,"District Environmental Engineer Office, Imperial Road, Cuddalore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,391,394,5,19.96,20.2,25.4,36.5,15,True
-NO2,159,Chennai,"Madras Medical College, Chennai","Residential, Rural and other Areas",National Environmental Engineering Research Institute,317,323,5,19.83,19.9,28.04,59.0,16,True
-NO2,240,Thoothukudi,"Raja Agencies, Tuticorin",Industrial Area,Tamilnadu State Pollution Control Board,321,328,5,19.81,19.9,25.4,30.3,17,True
-NO2,768,Chennai,"Vallalar Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,337,338,5,19.75,20.0,26.04,33.9,18,True
-NO2,770,Trichy,"Main Guard Gate, Tirchy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,278,285,5,19.74,19.95,24.83,37.7,19,True
-NO2,760,Cuddalore,"SIPCOT Industrial Complex, Cuddalore",Industrial Area,Tamilnadu State Pollution Control Board,356,367,5,19.65,19.9,25.55,36.5,20,True
-NO2,769,Trichy,"Gandhi Market, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,334,339,5,19.44,19.75,25.0,31.4,21,True
-NO2,239,Thoothukudi,"Fisheries College, Tuticorin","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,369,374,5,19.4,19.6,25.22,32.0,22,True
-NO2,764,Chennai,"Adyar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,359,365,5,19.4,19.0,25.82,35.9,22,True
-NO2,759,Cuddalore,Eachangadu Villagae,"Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,321,325,5,19.38,20.0,25.0,35.1,24,True
-NO2,771,Trichy,"Bishop Heber College, Tirchy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,286,295,5,19.26,19.05,25.6,34.8,25,True
-NO2,773,Trichy,"Central Bus Stand, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,293,303,5,19.22,19.4,25.96,34.6,26,True
-NO2,38,Chennai,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",Industrial Area,Tamilnadu State Pollution Control Board,392,398,5,19.14,18.8,25.09,32.2,27,True
-NO2,72,Chennai,"Thiruvottiyur, Chennai",Industrial Area,Tamilnadu State Pollution Control Board,391,397,5,18.99,18.7,26.0,37.4,28,True
-NO2,71,Chennai,"Govt. High School, Manali, Chennai.",Industrial Area,Tamilnadu State Pollution Control Board,298,305,5,18.79,18.4,24.82,33.8,29,True
-NO2,772,Trichy,"Golden Rock, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,309,314,5,18.71,18.3,25.92,34.0,30,True
-NO2,366,Thoothukudi,"AVM Jewellery Building, Tuticorin","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,336,345,5,18.05,17.35,25.05,33.3,31,True
-PM10,240,Thoothukudi,"Raja Agencies, Tuticorin",Industrial Area,Tamilnadu State Pollution Control Board,327,328,5,68.31,61.5,103.4,289.0,1,True
-PM10,770,Trichy,"Main Guard Gate, Tirchy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,276,285,5,65.3,60.25,106.5,145.0,2,True
-PM10,239,Thoothukudi,"Fisheries College, Tuticorin","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,371,374,5,65.17,60.0,99.0,201.0,3,True
-PM10,773,Trichy,"Central Bus Stand, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,302,303,5,65.13,62.35,105.88,147.0,4,True
-PM10,766,Chennai,"Thiyagaraya Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,399,403,5,64.05,61.3,92.72,244.0,5,True
-PM10,769,Trichy,"Gandhi Market, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,335,339,5,63.93,59.8,100.42,148.0,6,True
-PM10,765,Chennai,"Anna Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,344,348,5,62.72,59.45,86.41,246.0,7,True
-PM10,768,Chennai,"Vallalar Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,334,338,5,62.26,58.95,90.0,263.0,8,True
-PM10,308,Madurai,"Kunnathur Chatram East Avani Mollai Street, Madurai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,430,432,5,61.63,60.3,86.03,169.0,9,True
-PM10,767,Chennai,"Kilpauk, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,342,344,5,60.29,58.0,90.0,147.0,10,True
-PM10,761,Cuddalore,"District Environmental Engineer Office, Imperial Road, Cuddalore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,392,394,5,58.85,59.2,80.97,102.8,11,True
-PM10,759,Cuddalore,Eachangadu Villagae,"Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,320,325,5,58.67,58.9,82.34,114.0,12,True
-PM10,366,Thoothukudi,"AVM Jewellery Building, Tuticorin","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,343,345,5,58.6,57.2,84.16,140.0,13,True
-PM10,307,Madurai,"Fenner (I) Ltd. Employees Assiciation Building Kochadai, Madurai",Industrial Area,Tamilnadu State Pollution Control Board,407,409,5,57.89,57.4,82.04,128.0,14,True
-PM10,309,Salem,"Sowdeswari College Building, Salem","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,365,367,5,56.15,56.0,76.52,122.0,15,True
-PM10,763,Mettur,"SIDCO Industrial Complex, Mettur",Industrial Area,Tamilnadu State Pollution Control Board,409,413,5,56.11,55.7,79.0,100.5,16,True
-PM10,237,Coimbatore,"SIDCO Office, Coimbatore",Industrial Area,Tamilnadu State Pollution Control Board,331,338,5,55.64,55.4,79.6,119.5,17,True
-PM10,306,Madurai,"Highway (Project -I) Building, Madurai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,366,370,5,55.62,55.1,78.4,104.1,18,True
-PM10,772,Trichy,"Golden Rock, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,314,314,5,55.39,54.55,78.04,112.0,19,True
-PM10,72,Chennai,"Thiruvottiyur, Chennai",Industrial Area,Tamilnadu State Pollution Control Board,392,397,5,55.33,53.0,77.78,105.5,20,True
-PM10,764,Chennai,"Adyar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,363,365,5,54.79,54.4,79.08,104.7,21,True
-PM10,375,Coimbatore,"Poniarajapuram, On the top of DEL, Coimbatore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,359,361,5,54.15,52.0,78.56,123.0,22,True
-PM10,762,Mettur,"Raman Nagar, Mettur","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,435,436,5,54.1,53.0,78.32,109.4,23,True
-PM10,38,Chennai,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",Industrial Area,Tamilnadu State Pollution Control Board,390,398,5,54.0,53.45,75.63,103.8,24,True
-PM10,760,Cuddalore,"SIPCOT Industrial Complex, Cuddalore",Industrial Area,Tamilnadu State Pollution Control Board,367,367,5,53.78,52.2,77.74,111.2,25,True
-PM10,771,Trichy,"Bishop Heber College, Tirchy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,292,295,5,52.67,50.3,77.31,100.4,26,True
-PM10,160,Chennai,"NEERI, CSIR Campus Chennai","Residential, Rural and other Areas",National Environmental Engineering Research Institute,379,382,5,52.61,51.9,77.1,102.2,27,True
-PM10,71,Chennai,"Govt. High School, Manali, Chennai.",Industrial Area,Tamilnadu State Pollution Control Board,303,305,5,52.54,49.7,77.12,119.3,28,True
-PM10,238,Coimbatore,"Distt. Collector's Office, Coimbatore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,342,344,5,52.11,50.65,79.29,107.6,29,True
-PM10,161,Chennai,"Thiruvottiyur Municipal Office, Chennai",Industrial Area,National Environmental Engineering Research Institute,440,444,5,49.8,49.75,75.29,102.2,30,True
-PM10,159,Chennai,"Madras Medical College, Chennai","Residential, Rural and other Areas",National Environmental Engineering Research Institute,319,323,5,47.39,46.4,73.02,98.4,31,True
-PM2.5,239,Thoothukudi,"Fisheries College, Tuticorin","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,58,374,5,57.05,54.0,85.3,96.0,1,True
-PM2.5,772,Trichy,"Golden Rock, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,2,314,5,44.05,44.05,56.09,59.1,2,False
-PM2.5,237,Coimbatore,"SIDCO Office, Coimbatore",Industrial Area,Tamilnadu State Pollution Control Board,44,338,5,35.27,36.0,49.7,82.0,3,True
-PM2.5,767,Chennai,"Kilpauk, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,5,344,5,34.08,33.9,43.36,43.4,4,False
-PM2.5,308,Madurai,"Kunnathur Chatram East Avani Mollai Street, Madurai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,10,432,5,33.3,32.5,46.7,50.3,5,False
-PM2.5,760,Cuddalore,"SIPCOT Industrial Complex, Cuddalore",Industrial Area,Tamilnadu State Pollution Control Board,13,367,5,32.89,33.2,45.44,48.5,6,False
-PM2.5,306,Madurai,"Highway (Project -I) Building, Madurai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,3,370,5,32.87,27.3,41.06,44.5,7,False
-PM2.5,161,Chennai,"Thiruvottiyur Municipal Office, Chennai",Industrial Area,National Environmental Engineering Research Institute,6,444,5,32.45,30.15,42.85,46.2,8,False
-PM2.5,766,Chennai,"Thiyagaraya Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,7,403,5,31.39,27.3,41.72,41.9,9,False
-PM2.5,307,Madurai,"Fenner (I) Ltd. Employees Assiciation Building Kochadai, Madurai",Industrial Area,Tamilnadu State Pollution Control Board,32,409,5,30.35,31.3,43.53,49.0,10,True
-PM2.5,366,Thoothukudi,"AVM Jewellery Building, Tuticorin","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,6,345,5,29.78,30.3,43.7,46.9,11,False
-PM2.5,769,Trichy,"Gandhi Market, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,6,339,5,29.12,31.2,38.5,41.2,12,False
-PM2.5,375,Coimbatore,"Poniarajapuram, On the top of DEL, Coimbatore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,50,361,5,28.7,28.0,42.0,55.0,13,True
-PM2.5,771,Trichy,"Bishop Heber College, Tirchy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,7,295,5,28.6,28.8,36.64,37.3,14,False
-PM2.5,759,Cuddalore,Eachangadu Villagae,"Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,12,325,5,27.92,28.6,40.8,48.5,15,False
-PM2.5,38,Chennai,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",Industrial Area,Tamilnadu State Pollution Control Board,77,398,5,27.71,26.0,38.04,47.0,16,True
-PM2.5,240,Thoothukudi,"Raja Agencies, Tuticorin",Industrial Area,Tamilnadu State Pollution Control Board,4,328,5,27.55,27.3,32.43,33.9,17,False
-PM2.5,238,Coimbatore,"Distt. Collector's Office, Coimbatore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,51,344,5,27.13,26.0,43.0,59.0,18,True
-PM2.5,159,Chennai,"Madras Medical College, Chennai","Residential, Rural and other Areas",National Environmental Engineering Research Institute,5,323,5,27.1,23.7,37.76,45.6,19,False
-PM2.5,763,Mettur,"SIDCO Industrial Complex, Mettur",Industrial Area,Tamilnadu State Pollution Control Board,35,413,5,27.07,24.5,42.96,46.0,20,True
-PM2.5,773,Trichy,"Central Bus Stand, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,5,303,5,27.06,26.0,29.88,30.2,21,False
-PM2.5,768,Chennai,"Vallalar Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,12,338,5,26.97,24.8,41.35,41.9,22,False
-PM2.5,160,Chennai,"NEERI, CSIR Campus Chennai","Residential, Rural and other Areas",National Environmental Engineering Research Institute,9,382,5,26.9,25.5,37.7,44.1,23,False
-PM2.5,761,Cuddalore,"District Environmental Engineer Office, Imperial Road, Cuddalore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,21,394,5,26.59,26.0,37.0,42.0,24,False
-PM2.5,765,Chennai,"Anna Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,47,348,5,26.56,25.0,35.24,141.0,25,True
-PM2.5,72,Chennai,"Thiruvottiyur, Chennai",Industrial Area,Tamilnadu State Pollution Control Board,6,397,5,26.48,21.45,38.5,42.9,26,False
-PM2.5,770,Trichy,"Main Guard Gate, Tirchy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,18,285,5,25.42,24.6,34.6,43.5,27,False
-PM2.5,71,Chennai,"Govt. High School, Manali, Chennai.",Industrial Area,Tamilnadu State Pollution Control Board,8,305,5,24.91,21.4,35.85,37.6,28,False
-PM2.5,762,Mettur,"Raman Nagar, Mettur","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,30,436,5,22.67,21.5,30.11,37.0,29,True
-PM2.5,309,Salem,"Sowdeswari College Building, Salem","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,40,367,5,21.15,18.0,38.97,50.5,30,True
-PM2.5,764,Chennai,"Adyar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,48,365,5,16.64,14.5,25.69,44.0,31,True
-SO2,766,Chennai,"Thiyagaraya Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,396,403,5,11.75,11.55,18.75,23.0,1,True
-SO2,240,Thoothukudi,"Raja Agencies, Tuticorin",Industrial Area,Tamilnadu State Pollution Control Board,322,328,5,11.37,11.3,16.0,19.6,2,True
-SO2,767,Chennai,"Kilpauk, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,334,344,5,11.26,10.9,18.0,24.0,3,True
-SO2,765,Chennai,"Anna Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,342,348,5,11.16,11.0,17.0,20.0,4,True
-SO2,764,Chennai,"Adyar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,358,365,5,11.05,11.45,15.33,18.3,5,True
-SO2,239,Thoothukudi,"Fisheries College, Tuticorin","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,369,374,5,10.96,11.2,15.84,20.0,6,True
-SO2,307,Madurai,"Fenner (I) Ltd. Employees Assiciation Building Kochadai, Madurai",Industrial Area,Tamilnadu State Pollution Control Board,403,409,5,10.92,10.8,16.0,21.0,7,True
-SO2,308,Madurai,"Kunnathur Chatram East Avani Mollai Street, Madurai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,426,432,5,10.87,11.0,16.0,23.0,8,True
-SO2,773,Trichy,"Central Bus Stand, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,296,303,5,10.78,10.4,15.95,22.0,9,True
-SO2,770,Trichy,"Main Guard Gate, Tirchy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,278,285,5,10.71,10.6,15.43,20.0,10,True
-SO2,71,Chennai,"Govt. High School, Manali, Chennai.",Industrial Area,Tamilnadu State Pollution Control Board,303,305,5,10.61,10.9,15.0,19.0,11,True
-SO2,38,Chennai,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",Industrial Area,Tamilnadu State Pollution Control Board,388,398,5,10.57,10.9,14.76,23.0,12,True
-SO2,768,Chennai,"Vallalar Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,331,338,5,10.57,10.7,15.2,20.8,12,True
-SO2,72,Chennai,"Thiruvottiyur, Chennai",Industrial Area,Tamilnadu State Pollution Control Board,388,397,5,10.35,10.7,14.53,18.9,14,True
-SO2,769,Trichy,"Gandhi Market, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,330,339,5,10.27,10.3,15.0,18.4,15,True
-SO2,771,Trichy,"Bishop Heber College, Tirchy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,288,295,5,10.27,10.15,14.3,19.5,15,True
-SO2,772,Trichy,"Golden Rock, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,308,314,5,10.13,10.0,14.33,19.2,17,True
-SO2,761,Cuddalore,"District Environmental Engineer Office, Imperial Road, Cuddalore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,386,394,5,10.06,10.3,14.0,18.3,18,True
-SO2,366,Thoothukudi,"AVM Jewellery Building, Tuticorin","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,336,345,5,9.97,10.0,13.85,19.7,19,True
-SO2,759,Cuddalore,Eachangadu Villagae,"Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,320,325,5,9.96,10.0,14.0,18.6,20,True
-SO2,306,Madurai,"Highway (Project -I) Building, Madurai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,364,370,5,9.83,10.0,13.64,20.7,21,True
-SO2,760,Cuddalore,"SIPCOT Industrial Complex, Cuddalore",Industrial Area,Tamilnadu State Pollution Control Board,356,367,5,9.82,9.5,14.0,21.0,22,True
-SO2,309,Salem,"Sowdeswari College Building, Salem","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,361,367,5,9.74,9.0,14.1,20.9,23,True
-SO2,763,Mettur,"SIDCO Industrial Complex, Mettur",Industrial Area,Tamilnadu State Pollution Control Board,400,413,5,9.7,9.1,14.51,18.9,24,True
-SO2,161,Chennai,"Thiruvottiyur Municipal Office, Chennai",Industrial Area,National Environmental Engineering Research Institute,431,444,5,9.44,9.3,14.1,40.0,25,True
-SO2,762,Mettur,"Raman Nagar, Mettur","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,426,436,5,9.38,9.0,13.6,19.9,26,True
-SO2,237,Coimbatore,"SIDCO Office, Coimbatore",Industrial Area,Tamilnadu State Pollution Control Board,332,338,5,8.86,8.6,14.08,20.4,27,True
-SO2,375,Coimbatore,"Poniarajapuram, On the top of DEL, Coimbatore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,354,361,5,8.71,9.1,14.07,20.3,28,True
-SO2,238,Coimbatore,"Distt. Collector's Office, Coimbatore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,341,344,5,8.49,8.3,14.3,23.6,29,True
-SO2,159,Chennai,"Madras Medical College, Chennai","Residential, Rural and other Areas",National Environmental Engineering Research Institute,317,323,5,8.45,8.8,13.9,25.0,30,True
-SO2,160,Chennai,"NEERI, CSIR Campus Chennai","Residential, Rural and other Areas",National Environmental Engineering Research Institute,374,382,5,8.28,8.35,13.87,19.0,31,True
+NO2,237,Coimbatore,"SIDCO Office, Coimbatore",Industrial Area,Tamilnadu State Pollution Control Board,451,455,5,29.68,26.0,37.0,315.0,1,True
+NO2,766,Chennai,"Thiyagaraya Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,305,310,3,28.77,27.0,36.0,118.0,2,True
+NO2,763,Mettur,"SIDCO Industrial Complex, Mettur",Industrial Area,Tamilnadu State Pollution Control Board,243,243,3,26.67,26.0,32.0,69.0,3,True
+NO2,238,Coimbatore,"Distt. Collector's Office, Coimbatore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,450,455,5,26.64,25.0,35.0,75.0,4,True
+NO2,767,Chennai,"Kilpauk, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,313,305,3,26.18,26.0,34.0,59.0,5,True
+NO2,307,Madurai,"Fenner (I) Ltd. Employees Assiciation Building Kochadai, Madurai",Industrial Area,Tamilnadu State Pollution Control Board,475,475,5,25.02,24.0,30.0,274.0,6,True
+NO2,375,Coimbatore,"Poniarajapuram, On the top of DEL, Coimbatore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,444,467,5,24.91,22.0,34.0,76.0,7,True
+NO2,309,Salem,"Sowdeswari College Building, Salem","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,641,652,5,24.77,24.0,31.0,55.0,8,True
+NO2,308,Madurai,"Kunnathur Chatram East Avani Mollai Street, Madurai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,465,465,5,24.68,24.0,30.0,189.0,9,True
+NO2,306,Madurai,"Highway (Project -I) Building, Madurai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,468,468,5,22.48,22.0,27.0,49.0,10,True
+NO2,765,Chennai,"Anna Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,300,302,3,22.32,21.0,30.0,59.0,11,True
+NO2,762,Mettur,"Raman Nagar, Mettur","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,243,243,3,21.4,21.0,26.0,45.0,12,True
+NO2,759,Cuddalore,Eachangadu Villagae,"Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,215,217,3,21.17,22.0,25.0,26.0,13,True
+NO2,161,Chennai,"Thiruvottiyur Municipal Office, Chennai",Industrial Area,National Environmental Engineering Research Institute,355,359,4,20.57,19.0,36.0,67.0,14,True
+NO2,773,Trichy,"Central Bus Stand, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,232,236,4,20.51,20.0,23.0,33.0,15,True
+NO2,72,Chennai,"Thiruvottiyur,  Chennai",Industrial Area,Tamilnadu State Pollution Control Board,371,373,4,20.49,18.0,31.0,61.0,16,True
+NO2,770,Trichy,"Main Guard Gate, Tirchy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,232,237,4,20.4,20.0,24.0,53.0,17,True
+NO2,768,Chennai,"Vallalar Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,40,40,1,20.25,20.5,24.0,33.0,18,True
+NO2,769,Trichy,"Gandhi Market, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,235,236,4,20.16,20.0,23.0,53.0,19,True
+NO2,71,Chennai,"Govt. High School, Manali, Chennai.",Industrial Area,Tamilnadu State Pollution Control Board,469,469,5,20.04,18.0,28.2,245.0,20,True
+NO2,38,Chennai,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",Industrial Area,Tamilnadu State Pollution Control Board,472,474,5,19.87,18.0,30.0,64.0,21,True
+NO2,761,Cuddalore,"District Environmental Engineer Office, Imperial Road, Cuddalore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,218,218,3,19.67,20.0,25.0,27.0,22,True
+NO2,764,Chennai,"Adyar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,301,302,3,19.66,19.0,25.0,44.0,23,True
+NO2,159,Chennai,"Madras Medical College, Chennai","Residential, Rural and other Areas",National Environmental Engineering Research Institute,355,360,4,19.03,17.0,35.0,59.0,24,True
+NO2,760,Cuddalore,"SIPCOT Industrial Complex, Cuddalore",Industrial Area,Tamilnadu State Pollution Control Board,214,216,3,18.49,19.5,22.0,24.0,25,True
+NO2,160,Chennai,"NEERI, CSIR Campus Chennai","Residential, Rural and other Areas",National Environmental Engineering Research Institute,363,365,4,18.43,15.0,32.0,117.0,26,True
+NO2,240,Thoothukudi,"Raja Agencies, Tuticorin",Industrial Area,Tamilnadu State Pollution Control Board,460,461,5,18.27,19.0,25.0,146.0,27,True
+NO2,239,Thoothukudi,"Fisheries College, Tuticorin","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,451,457,5,17.71,18.0,24.0,43.0,28,True
+NO2,72,Chennai,"Thiruvottiyur, Chennai",Industrial Area,Tamilnadu State Pollution Control Board,85,85,1,15.18,15.0,18.0,25.0,29,True
+NO2,772,Trichy,"Golden Rock, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,231,237,4,15.05,15.0,17.0,32.0,30,True
+NO2,771,Trichy,"Bishop Heber College, Tirchy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,230,234,4,14.81,15.0,17.0,20.0,31,True
+NO2,366,Thoothukudi,"AVM Jewellery Building, Tuticorin","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,453,458,5,14.12,13.0,19.0,48.0,32,True
+PM10,240,Thoothukudi,"Raja Agencies, Tuticorin",Industrial Area,Tamilnadu State Pollution Control Board,460,461,5,133.29,108.0,242.1,601.0,1,True
+PM10,773,Trichy,"Central Bus Stand, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,235,236,4,119.03,116.0,136.0,414.0,2,True
+PM10,770,Trichy,"Main Guard Gate, Tirchy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,234,237,4,109.71,111.0,130.7,165.0,3,True
+PM10,769,Trichy,"Gandhi Market, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,239,236,4,107.72,109.0,129.2,180.0,4,True
+PM10,766,Chennai,"Thiyagaraya Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,310,310,3,107.32,100.0,150.2,341.0,5,True
+PM10,768,Chennai,"Vallalar Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,40,40,1,105.68,93.5,161.4,263.0,6,True
+PM10,239,Thoothukudi,"Fisheries College, Tuticorin","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,456,457,5,101.55,90.0,161.5,776.0,7,True
+PM10,767,Chennai,"Kilpauk, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,313,305,3,96.55,90.0,145.6,256.0,8,True
+PM10,765,Chennai,"Anna Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,300,302,3,91.23,77.0,145.1,347.0,9,True
+PM10,366,Thoothukudi,"AVM Jewellery Building, Tuticorin","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,458,458,5,79.48,68.0,133.6,351.0,10,True
+PM10,237,Coimbatore,"SIDCO Office, Coimbatore",Industrial Area,Tamilnadu State Pollution Control Board,451,455,5,75.65,63.0,120.0,443.0,11,True
+PM10,38,Chennai,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",Industrial Area,Tamilnadu State Pollution Control Board,472,474,5,74.13,59.0,129.0,363.0,12,True
+PM10,759,Cuddalore,Eachangadu Villagae,"Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,217,217,3,67.83,66.0,99.0,114.0,13,True
+PM10,72,Chennai,"Thiruvottiyur,  Chennai",Industrial Area,Tamilnadu State Pollution Control Board,372,373,4,67.75,61.0,106.0,197.0,14,True
+PM10,71,Chennai,"Govt. High School, Manali, Chennai.",Industrial Area,Tamilnadu State Pollution Control Board,464,469,5,61.83,55.0,100.7,349.0,15,True
+PM10,309,Salem,"Sowdeswari College Building, Salem","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,650,652,5,61.1,57.0,84.1,169.0,16,True
+PM10,761,Cuddalore,"District Environmental Engineer Office, Imperial Road, Cuddalore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,218,218,3,60.47,56.0,96.0,109.0,17,True
+PM10,763,Mettur,"SIDCO Industrial Complex, Mettur",Industrial Area,Tamilnadu State Pollution Control Board,243,243,3,56.2,52.0,86.0,138.0,18,True
+PM10,375,Coimbatore,"Poniarajapuram, On the top of DEL, Coimbatore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,460,467,5,55.3,50.0,88.0,273.0,19,True
+PM10,238,Coimbatore,"Distt. Collector's Office, Coimbatore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,450,455,5,53.98,49.5,81.1,218.0,20,True
+PM10,308,Madurai,"Kunnathur Chatram East Avani Mollai Street, Madurai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,465,465,5,52.53,47.0,75.0,169.0,21,True
+PM10,764,Chennai,"Adyar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,302,302,3,52.14,50.0,73.0,119.0,22,True
+PM10,762,Mettur,"Raman Nagar, Mettur","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,243,243,3,47.88,45.0,70.0,182.0,23,True
+PM10,307,Madurai,"Fenner (I) Ltd. Employees Assiciation Building Kochadai, Madurai",Industrial Area,Tamilnadu State Pollution Control Board,475,475,5,46.56,45.0,66.0,128.0,24,True
+PM10,72,Chennai,"Thiruvottiyur, Chennai",Industrial Area,Tamilnadu State Pollution Control Board,85,85,1,46.51,44.0,63.0,76.0,25,True
+PM10,306,Madurai,"Highway (Project -I) Building, Madurai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,468,468,5,45.08,43.0,62.3,199.0,26,True
+PM10,772,Trichy,"Golden Rock, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,237,237,4,44.77,44.0,56.4,112.0,27,True
+PM10,760,Cuddalore,"SIPCOT Industrial Complex, Cuddalore",Industrial Area,Tamilnadu State Pollution Control Board,216,216,3,44.21,38.5,79.5,93.0,28,True
+PM10,771,Trichy,"Bishop Heber College, Tirchy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,233,234,4,42.97,42.0,51.8,117.0,29,True
+PM10,160,Chennai,"NEERI, CSIR Campus Chennai","Residential, Rural and other Areas",National Environmental Engineering Research Institute,365,365,4,37.62,35.0,62.0,93.0,30,True
+PM10,161,Chennai,"Thiruvottiyur Municipal Office, Chennai",Industrial Area,National Environmental Engineering Research Institute,360,359,4,36.21,33.0,59.7,135.0,31,True
+PM10,159,Chennai,"Madras Medical College, Chennai","Residential, Rural and other Areas",National Environmental Engineering Research Institute,359,360,4,28.98,27.0,48.0,90.0,32,True
+PM2.5,239,Thoothukudi,"Fisheries College, Tuticorin","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,51,457,5,60.82,58.0,86.0,96.0,1,True
+PM2.5,237,Coimbatore,"SIDCO Office, Coimbatore",Industrial Area,Tamilnadu State Pollution Control Board,38,455,5,36.03,36.5,50.0,82.0,2,True
+PM2.5,307,Madurai,"Fenner (I) Ltd. Employees Assiciation Building Kochadai, Madurai",Industrial Area,Tamilnadu State Pollution Control Board,22,475,5,31.6,30.6,43.1,47.9,3,False
+PM2.5,375,Coimbatore,"Poniarajapuram, On the top of DEL, Coimbatore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,45,467,5,27.93,27.0,42.0,55.0,4,True
+PM2.5,238,Coimbatore,"Distt. Collector's Office, Coimbatore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,42,455,5,26.9,26.0,42.9,59.0,5,True
+PM2.5,763,Mettur,"SIDCO Industrial Complex, Mettur",Industrial Area,Tamilnadu State Pollution Control Board,26,243,3,26.88,24.5,44.0,46.0,6,False
+PM2.5,761,Cuddalore,"District Environmental Engineer Office, Imperial Road, Cuddalore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,16,218,3,26.5,26.0,36.5,42.0,7,False
+PM2.5,38,Chennai,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",Industrial Area,Tamilnadu State Pollution Control Board,65,474,5,26.43,25.0,38.0,47.0,8,True
+PM2.5,765,Chennai,"Anna Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,42,302,3,25.76,23.0,32.9,141.0,9,True
+PM2.5,770,Trichy,"Main Guard Gate, Tirchy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,9,237,4,23.3,22.0,34.4,36.0,10,False
+PM2.5,762,Mettur,"Raman Nagar, Mettur","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,29,243,3,22.38,21.0,29.2,37.0,11,False
+PM2.5,309,Salem,"Sowdeswari College Building, Salem","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,27,652,5,16.48,15.0,22.0,29.0,12,False
+PM2.5,764,Chennai,"Adyar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,42,302,3,15.14,14.0,21.9,44.0,13,True
+PM2.5,72,Chennai,"Thiruvottiyur, Chennai",Industrial Area,Tamilnadu State Pollution Control Board,0,85,1,,,,,14,False
+PM2.5,308,Madurai,"Kunnathur Chatram East Avani Mollai Street, Madurai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,0,465,5,,,,,14,False
+PM2.5,773,Trichy,"Central Bus Stand, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,0,236,4,,,,,14,False
+PM2.5,161,Chennai,"Thiruvottiyur Municipal Office, Chennai",Industrial Area,National Environmental Engineering Research Institute,0,359,4,,,,,14,False
+PM2.5,159,Chennai,"Madras Medical College, Chennai","Residential, Rural and other Areas",National Environmental Engineering Research Institute,0,360,4,,,,,14,False
+PM2.5,306,Madurai,"Highway (Project -I) Building, Madurai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,0,468,5,,,,,14,False
+PM2.5,767,Chennai,"Kilpauk, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,0,305,3,,,,,14,False
+PM2.5,769,Trichy,"Gandhi Market, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,0,236,4,,,,,14,False
+PM2.5,240,Thoothukudi,"Raja Agencies, Tuticorin",Industrial Area,Tamilnadu State Pollution Control Board,0,461,5,,,,,14,False
+PM2.5,772,Trichy,"Golden Rock, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,0,237,4,,,,,14,False
+PM2.5,759,Cuddalore,Eachangadu Villagae,"Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,0,217,3,,,,,14,False
+PM2.5,760,Cuddalore,"SIPCOT Industrial Complex, Cuddalore",Industrial Area,Tamilnadu State Pollution Control Board,0,216,3,,,,,14,False
+PM2.5,771,Trichy,"Bishop Heber College, Tirchy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,0,234,4,,,,,14,False
+PM2.5,768,Chennai,"Vallalar Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,0,40,1,,,,,14,False
+PM2.5,71,Chennai,"Govt. High School, Manali, Chennai.",Industrial Area,Tamilnadu State Pollution Control Board,0,469,5,,,,,14,False
+PM2.5,766,Chennai,"Thiyagaraya Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,0,310,3,,,,,14,False
+PM2.5,72,Chennai,"Thiruvottiyur,  Chennai",Industrial Area,Tamilnadu State Pollution Control Board,0,373,4,,,,,14,False
+PM2.5,366,Thoothukudi,"AVM Jewellery Building, Tuticorin","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,0,458,5,,,,,14,False
+PM2.5,160,Chennai,"NEERI, CSIR Campus Chennai","Residential, Rural and other Areas",National Environmental Engineering Research Institute,0,365,4,,,,,14,False
+SO2,71,Chennai,"Govt. High School, Manali, Chennai.",Industrial Area,Tamilnadu State Pollution Control Board,469,469,5,17.39,14.0,20.0,909.0,1,True
+SO2,766,Chennai,"Thiyagaraya Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,310,310,3,16.39,17.0,22.0,32.0,2,True
+SO2,767,Chennai,"Kilpauk, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,313,305,3,16.28,17.0,21.8,31.0,3,True
+SO2,773,Trichy,"Central Bus Stand, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,232,236,4,16.06,16.0,19.0,30.0,4,True
+SO2,72,Chennai,"Thiruvottiyur,  Chennai",Industrial Area,Tamilnadu State Pollution Control Board,371,373,4,15.56,14.0,20.0,42.0,5,True
+SO2,38,Chennai,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",Industrial Area,Tamilnadu State Pollution Control Board,472,474,5,15.48,14.0,20.0,48.0,6,True
+SO2,770,Trichy,"Main Guard Gate, Tirchy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,232,237,4,15.43,15.0,19.0,24.0,7,True
+SO2,769,Trichy,"Gandhi Market, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,235,236,4,15.4,15.0,19.0,21.0,8,True
+SO2,768,Chennai,"Vallalar Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,40,40,1,14.48,14.0,18.1,20.0,9,True
+SO2,239,Thoothukudi,"Fisheries College, Tuticorin","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,450,457,5,13.93,14.0,20.0,35.0,10,True
+SO2,765,Chennai,"Anna Nagar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,301,302,3,13.17,13.0,17.0,24.0,11,True
+SO2,307,Madurai,"Fenner (I) Ltd. Employees Assiciation Building Kochadai, Madurai",Industrial Area,Tamilnadu State Pollution Control Board,475,475,5,13.16,13.0,17.0,44.0,12,True
+SO2,308,Madurai,"Kunnathur Chatram East Avani Mollai Street, Madurai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,465,465,5,13.14,12.0,18.0,70.0,13,True
+SO2,240,Thoothukudi,"Raja Agencies, Tuticorin",Industrial Area,Tamilnadu State Pollution Control Board,460,461,5,12.93,14.0,18.0,88.0,14,True
+SO2,72,Chennai,"Thiruvottiyur, Chennai",Industrial Area,Tamilnadu State Pollution Control Board,85,85,1,12.29,12.0,14.0,17.0,15,True
+SO2,764,Chennai,"Adyar, Chennai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,301,302,3,12.14,13.0,15.0,19.0,16,True
+SO2,772,Trichy,"Golden Rock, Trichy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,231,237,4,11.05,11.0,13.0,17.0,17,True
+SO2,306,Madurai,"Highway (Project -I) Building, Madurai","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,468,468,5,10.96,10.0,14.0,25.0,18,True
+SO2,771,Trichy,"Bishop Heber College, Tirchy","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,230,234,4,10.81,11.0,13.0,16.0,19,True
+SO2,759,Cuddalore,Eachangadu Villagae,"Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,213,217,3,10.76,11.0,13.8,17.0,20,True
+SO2,366,Thoothukudi,"AVM Jewellery Building, Tuticorin","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,454,458,5,10.44,10.0,17.0,48.0,21,True
+SO2,763,Mettur,"SIDCO Industrial Complex, Mettur",Industrial Area,Tamilnadu State Pollution Control Board,243,243,3,9.33,9.0,11.0,16.0,22,True
+SO2,761,Cuddalore,"District Environmental Engineer Office, Imperial Road, Cuddalore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,218,218,3,8.76,8.0,12.0,16.0,23,True
+SO2,309,Salem,"Sowdeswari College Building, Salem","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,641,652,5,8.49,8.0,10.0,17.0,24,True
+SO2,161,Chennai,"Thiruvottiyur Municipal Office, Chennai",Industrial Area,National Environmental Engineering Research Institute,355,359,4,7.99,7.0,13.0,45.0,25,True
+SO2,760,Cuddalore,"SIPCOT Industrial Complex, Cuddalore",Industrial Area,Tamilnadu State Pollution Control Board,214,216,3,7.83,8.0,10.0,13.0,26,True
+SO2,762,Mettur,"Raman Nagar, Mettur","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,243,243,3,7.47,7.0,9.0,11.0,27,True
+SO2,159,Chennai,"Madras Medical College, Chennai","Residential, Rural and other Areas",National Environmental Engineering Research Institute,355,360,4,6.74,5.0,11.6,49.0,28,True
+SO2,160,Chennai,"NEERI, CSIR Campus Chennai","Residential, Rural and other Areas",National Environmental Engineering Research Institute,363,365,4,5.16,4.0,8.0,49.0,29,True
+SO2,237,Coimbatore,"SIDCO Office, Coimbatore",Industrial Area,Tamilnadu State Pollution Control Board,450,455,5,4.37,4.0,6.0,10.0,30,True
+SO2,238,Coimbatore,"Distt. Collector's Office, Coimbatore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,450,455,5,4.0,4.0,5.0,13.0,31,True
+SO2,375,Coimbatore,"Poniarajapuram, On the top of DEL, Coimbatore","Residential, Rural and other Areas",Tamilnadu State Pollution Control Board,437,467,5,3.87,4.0,5.0,26.0,32,True

@@ -1,32 +1,33 @@
 city,stn_code,location_of_monitoring_station,type_of_location,years_active,total_sampling_days,total_rows,valid_so2_samples,valid_no2_samples,valid_pm10_samples,valid_pm25_samples,so2_completeness_pct,no2_completeness_pct,pm10_completeness_pct,pm25_completeness_pct,earliest_date,latest_date
-Chennai,161,"Thiruvottiyur Municipal Office, Chennai",Industrial Area,5,444,444,431,434,440,6,97.1,97.7,99.1,1.4,2011-01-02,2015-12-30
-Mettur,762,"Raman Nagar, Mettur","Residential, Rural and other Areas",5,436,436,426,429,435,30,97.7,98.4,99.8,6.9,2011-01-02,2015-12-31
-Madurai,308,"Kunnathur Chatram East Avani Mollai Street, Madurai","Residential, Rural and other Areas",5,432,432,426,425,430,10,98.6,98.4,99.5,2.3,2011-01-02,2015-12-29
-Mettur,763,"SIDCO Industrial Complex, Mettur",Industrial Area,5,413,413,400,403,409,35,96.9,97.6,99.0,8.5,2011-01-05,2015-12-29
-Madurai,307,"Fenner (I) Ltd. Employees Assiciation Building Kochadai, Madurai",Industrial Area,5,409,409,403,403,407,32,98.5,98.5,99.5,7.8,2011-01-02,2015-12-30
-Chennai,766,"Thiyagaraya Nagar, Chennai","Residential, Rural and other Areas",5,403,403,396,390,399,7,98.3,96.8,99.0,1.7,2011-01-02,2015-12-31
-Chennai,38,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",Industrial Area,5,398,398,388,392,390,77,97.5,98.5,98.0,19.3,2011-01-02,2015-12-31
-Chennai,72,"Thiruvottiyur, Chennai",Industrial Area,5,397,397,388,391,392,6,97.7,98.5,98.7,1.5,2011-01-02,2015-12-30
-Cuddalore,761,"District Environmental Engineer Office, Imperial Road, Cuddalore","Residential, Rural and other Areas",5,394,394,386,391,392,21,98.0,99.2,99.5,5.3,2011-01-02,2015-12-31
-Chennai,160,"NEERI, CSIR Campus Chennai","Residential, Rural and other Areas",5,382,382,374,371,379,9,97.9,97.1,99.2,2.4,2011-01-05,2015-12-30
-Thoothukudi,239,"Fisheries College, Tuticorin","Residential, Rural and other Areas",5,374,374,369,369,371,58,98.7,98.7,99.2,15.5,2011-01-02,2015-10-29
-Madurai,306,"Highway (Project -I) Building, Madurai","Residential, Rural and other Areas",5,370,370,364,364,366,3,98.4,98.4,98.9,0.8,2011-01-11,2015-12-31
-Cuddalore,760,"SIPCOT Industrial Complex, Cuddalore",Industrial Area,5,367,367,356,356,367,13,97.0,97.0,100.0,3.5,2011-01-08,2015-12-29
-Salem,309,"Sowdeswari College Building, Salem","Residential, Rural and other Areas",5,367,367,361,360,365,40,98.4,98.1,99.5,10.9,2011-01-05,2015-12-30
-Chennai,764,"Adyar, Chennai","Residential, Rural and other Areas",5,365,365,358,359,363,48,98.1,98.4,99.5,13.2,2011-01-02,2015-12-30
-Coimbatore,375,"Poniarajapuram, On the top of DEL, Coimbatore","Residential, Rural and other Areas",5,361,361,354,355,359,50,98.1,98.3,99.4,13.9,2011-01-02,2015-12-30
-Chennai,765,"Anna Nagar, Chennai","Residential, Rural and other Areas",5,348,348,342,344,344,47,98.3,98.9,98.9,13.5,2011-01-05,2015-12-30
-Thoothukudi,366,"AVM Jewellery Building, Tuticorin","Residential, Rural and other Areas",5,345,345,336,336,343,6,97.4,97.4,99.4,1.7,2011-01-02,2015-10-30
-Chennai,767,"Kilpauk, Chennai","Residential, Rural and other Areas",5,344,344,334,331,342,5,97.1,96.2,99.4,1.5,2011-01-05,2015-12-31
-Coimbatore,238,"Distt. Collector's Office, Coimbatore","Residential, Rural and other Areas",5,344,344,341,336,342,51,99.1,97.7,99.4,14.8,2011-01-02,2015-12-31
-Trichy,769,"Gandhi Market, Trichy","Residential, Rural and other Areas",5,339,339,330,334,335,6,97.3,98.5,98.8,1.8,2011-01-02,2015-12-31
-Chennai,768,"Vallalar Nagar, Chennai","Residential, Rural and other Areas",5,338,338,331,337,334,12,97.9,99.7,98.8,3.6,2011-01-02,2015-12-28
-Coimbatore,237,"SIDCO Office, Coimbatore",Industrial Area,5,338,338,332,332,331,44,98.2,98.2,97.9,13.0,2011-01-02,2015-12-29
-Thoothukudi,240,"Raja Agencies, Tuticorin",Industrial Area,5,328,328,322,321,327,4,98.2,97.9,99.7,1.2,2011-01-02,2015-10-31
-Cuddalore,759,Eachangadu Villagae,"Residential, Rural and other Areas",5,325,325,320,321,320,12,98.5,98.8,98.5,3.7,2011-01-02,2015-12-30
-Chennai,159,"Madras Medical College, Chennai","Residential, Rural and other Areas",5,323,323,317,317,319,5,98.1,98.1,98.8,1.5,2011-01-08,2015-12-30
-Trichy,772,"Golden Rock, Trichy","Residential, Rural and other Areas",5,314,314,308,309,314,2,98.1,98.4,100.0,0.6,2011-01-02,2015-12-29
-Chennai,71,"Govt. High School, Manali, Chennai.",Industrial Area,5,305,305,303,298,303,8,99.3,97.7,99.3,2.6,2011-01-02,2015-12-31
-Trichy,773,"Central Bus Stand, Trichy","Residential, Rural and other Areas",5,303,303,296,293,302,5,97.7,96.7,99.7,1.7,2011-01-05,2015-12-30
-Trichy,771,"Bishop Heber College, Tirchy","Residential, Rural and other Areas",5,295,295,288,286,292,7,97.6,96.9,99.0,2.4,2011-01-05,2015-12-31
-Trichy,770,"Main Guard Gate, Tirchy","Residential, Rural and other Areas",5,285,285,278,278,276,18,97.5,97.5,96.8,6.3,2011-01-05,2015-12-30
+Salem,309,"Sowdeswari College Building, Salem","Residential, Rural and other Areas",5,652,652,641,641,650,27,98.3,98.3,99.7,4.1,2011-01-04,2015-12-30
+Madurai,307,"Fenner (I) Ltd. Employees Assiciation Building Kochadai, Madurai",Industrial Area,5,475,475,475,475,475,22,100.0,100.0,100.0,4.6,2011-01-06,2015-12-30
+Chennai,38,"Kathivakkam, Municipal Kalyana Mandapam, Chennai",Industrial Area,5,474,474,472,472,472,65,99.6,99.6,99.6,13.7,2011-01-02,2015-12-31
+Chennai,71,"Govt. High School, Manali, Chennai.",Industrial Area,5,469,469,469,469,464,0,100.0,100.0,98.9,0.0,2011-01-08,2015-12-31
+Madurai,306,"Highway (Project -I) Building, Madurai","Residential, Rural and other Areas",5,468,468,468,468,468,0,100.0,100.0,100.0,0.0,2011-01-08,2015-12-31
+Coimbatore,375,"Poniarajapuram, On the top of DEL, Coimbatore","Residential, Rural and other Areas",5,467,468,437,444,460,45,93.4,94.9,98.3,9.6,2011-01-04,2015-12-30
+Madurai,308,"Kunnathur Chatram East Avani Mollai Street, Madurai","Residential, Rural and other Areas",5,465,465,465,465,465,0,100.0,100.0,100.0,0.0,2011-01-02,2015-12-29
+Thoothukudi,240,"Raja Agencies, Tuticorin",Industrial Area,5,461,462,460,460,460,0,99.6,99.6,99.6,0.0,2011-01-06,2015-10-31
+Thoothukudi,366,"AVM Jewellery Building, Tuticorin","Residential, Rural and other Areas",5,458,458,454,453,458,0,99.1,98.9,100.0,0.0,2011-01-02,2015-10-30
+Thoothukudi,239,"Fisheries College, Tuticorin","Residential, Rural and other Areas",5,457,457,450,451,456,51,98.5,98.7,99.8,11.2,2011-01-08,2015-10-29
+Coimbatore,237,"SIDCO Office, Coimbatore",Industrial Area,5,455,456,450,451,451,38,98.7,98.9,98.9,8.3,2011-01-02,2015-12-29
+Coimbatore,238,"Distt. Collector's Office, Coimbatore","Residential, Rural and other Areas",5,455,455,450,450,450,42,98.9,98.9,98.9,9.2,2011-01-08,2015-12-31
+Chennai,72,"Thiruvottiyur,  Chennai",Industrial Area,4,373,373,371,371,372,0,99.5,99.5,99.7,0.0,2011-01-04,2014-12-31
+Chennai,160,"NEERI, CSIR Campus Chennai","Residential, Rural and other Areas",4,365,366,363,363,365,0,99.2,99.2,99.7,0.0,2011-01-08,2015-12-30
+Chennai,159,"Madras Medical College, Chennai","Residential, Rural and other Areas",4,360,360,355,355,359,0,98.6,98.6,99.7,0.0,2011-01-02,2015-12-30
+Chennai,161,"Thiruvottiyur Municipal Office, Chennai",Industrial Area,4,359,360,355,355,360,0,98.6,98.6,100.0,0.0,2011-01-08,2015-12-30
+Chennai,766,"Thiyagaraya Nagar, Chennai","Residential, Rural and other Areas",3,310,310,310,305,310,0,100.0,98.4,100.0,0.0,2013-01-08,2015-12-31
+Chennai,767,"Kilpauk, Chennai","Residential, Rural and other Areas",3,305,313,313,313,313,0,100.0,100.0,100.0,0.0,2013-01-04,2015-12-31
+Chennai,764,"Adyar, Chennai","Residential, Rural and other Areas",3,302,302,301,301,302,42,99.7,99.7,100.0,13.9,2013-01-02,2015-12-30
+Chennai,765,"Anna Nagar, Chennai","Residential, Rural and other Areas",3,302,302,301,300,300,42,99.7,99.3,99.3,13.9,2013-01-08,2015-12-30
+Mettur,762,"Raman Nagar, Mettur","Residential, Rural and other Areas",3,243,243,243,243,243,29,100.0,100.0,100.0,11.9,2013-01-08,2015-12-31
+Mettur,763,"SIDCO Industrial Complex, Mettur",Industrial Area,3,243,243,243,243,243,26,100.0,100.0,100.0,10.7,2013-01-10,2015-12-29
+Trichy,770,"Main Guard Gate, Tirchy","Residential, Rural and other Areas",4,237,237,232,232,234,9,97.9,97.9,98.7,3.8,2012-01-10,2015-12-30
+Trichy,772,"Golden Rock, Trichy","Residential, Rural and other Areas",4,237,237,231,231,237,0,97.5,97.5,100.0,0.0,2012-02-11,2015-12-29
+Trichy,769,"Gandhi Market, Trichy","Residential, Rural and other Areas",4,236,239,235,235,239,0,98.3,98.3,100.0,0.0,2012-01-11,2015-12-31
+Trichy,773,"Central Bus Stand, Trichy","Residential, Rural and other Areas",4,236,236,232,232,235,0,98.3,98.3,99.6,0.0,2012-02-11,2015-12-30
+Trichy,771,"Bishop Heber College, Tirchy","Residential, Rural and other Areas",4,234,234,230,230,233,0,98.3,98.3,99.6,0.0,2012-01-10,2015-12-31
+Cuddalore,761,"District Environmental Engineer Office, Imperial Road, Cuddalore","Residential, Rural and other Areas",3,218,218,218,218,218,16,100.0,100.0,100.0,7.3,2013-02-08,2015-12-31
+Cuddalore,759,Eachangadu Villagae,"Residential, Rural and other Areas",3,217,217,213,215,217,0,98.2,99.1,100.0,0.0,2013-01-08,2015-12-30
+Cuddalore,760,"SIPCOT Industrial Complex, Cuddalore",Industrial Area,3,216,216,214,214,216,0,99.1,99.1,100.0,0.0,2013-03-08,2015-12-29
+Chennai,72,"Thiruvottiyur, Chennai",Industrial Area,1,85,85,85,85,85,0,100.0,100.0,100.0,0.0,2015-01-02,2015-12-30
+Chennai,768,"Vallalar Nagar, Chennai","Residential, Rural and other Areas",1,40,40,40,40,40,0,100.0,100.0,100.0,0.0,2015-04-07,2015-12-28

@@ -1,9 +1,9 @@
 type_of_location,pollutant,total_records,valid_observations,missing_observations,missing_pct,stations_represented,cities_represented,mean_concentration,median_concentration,stddev_concentration,max_concentration
-Industrial Area,NO2,3399,3330,69,2.03,9,6,20.17,20.0,5.58,67.0
-"Residential, Rural and other Areas",NO2,7787,7635,152,1.95,22,8,20.04,20.0,5.43,73.0
-"Residential, Rural and other Areas",PM10,7787,7722,65,0.83,22,8,58.23,56.8,22.72,263.0
-Industrial Area,PM10,3399,3366,33,0.97,9,6,55.73,54.1,20.51,289.0
-Industrial Area,PM2.5,3399,225,3174,93.38,9,6,29.76,28.0,10.66,82.0
-"Residential, Rural and other Areas",PM2.5,7787,452,7335,94.2,22,8,29.54,26.0,16.65,141.0
-Industrial Area,SO2,3399,3323,76,2.24,9,6,10.17,10.1,3.69,40.0
-"Residential, Rural and other Areas",SO2,7787,7635,152,1.95,22,8,10.12,10.0,3.87,25.0
+Industrial Area,NO2,3613,3595,18,0.5,9,6,22.0,21.0,12.4,315.0
+"Residential, Rural and other Areas",NO2,7277,7185,92,1.26,22,8,21.48,21.0,7.98,189.0
+Industrial Area,PM10,3613,3598,15,0.42,9,6,68.54,54.0,51.14,601.0
+"Residential, Rural and other Areas",PM10,7277,7252,25,0.34,22,8,67.87,57.0,39.26,776.0
+Industrial Area,PM2.5,3613,151,3462,95.82,9,6,29.68,27.9,10.86,82.0
+"Residential, Rural and other Areas",PM2.5,7277,303,6974,95.84,22,8,29.49,24.0,19.08,141.0
+Industrial Area,SO2,3613,3594,19,0.53,9,6,12.03,12.0,16.21,909.0
+"Residential, Rural and other Areas",SO2,7277,7182,95,1.31,22,8,10.56,10.0,5.33,70.0
